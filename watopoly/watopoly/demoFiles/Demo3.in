@@ -1,0 +1,22 @@
+roll 1 2
+roll 2 2
+y
+1 1
+1 1
+next
+roll 1 2
+next
+2
+roll
+
+y
+next
+1
+2 2
+y
+roll
+next
+3
+roll
+quit
+h
